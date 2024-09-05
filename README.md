@@ -1,4 +1,4 @@
-<h2> followingg libraries have been used :-</h2>
+<h2> following libraries have been used :-</h2>
 
 <h4>numpy (imported as np):</h4> 
 NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. It's widely used in scientific computing and data analysis.
